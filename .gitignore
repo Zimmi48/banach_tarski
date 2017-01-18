@@ -2,4 +2,5 @@
 *.bak
 *.glob
 *.vo
+*.v.d
 history
